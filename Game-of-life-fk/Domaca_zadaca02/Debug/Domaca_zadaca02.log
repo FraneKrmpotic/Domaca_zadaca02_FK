@@ -1,0 +1,3 @@
+﻿  Game_of_life.cpp
+C:\Users\frane\source\repos\Game-of-life-fk\Domaca_zadaca02\Game_of_life.cpp(87,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Domaca_zadaca02.vcxproj -> C:\Users\frane\source\repos\Game-of-life-fk\Debug\Game-of-life-fk.exe
